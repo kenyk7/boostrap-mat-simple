@@ -9,8 +9,8 @@
 	<link rel="shortcut icon" href="favicon.png" />
 
 	<!-- Bootstrap CSS -->
-	<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
-	<link href="http://bootswatch.com/paper/bootstrap.min.css" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
+	<link href="https://bootswatch.com/paper/bootstrap.min.css" rel="stylesheet">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 
 	<link href="assets/css/material.css" rel="stylesheet">
@@ -311,9 +311,8 @@
 	<a href="#" class="btn btn-rounded btn-rlg btn-lg btn-default btn-top"><i class="fa fa-arrow-up"></i></a>
 </footer>
 <!-- jQuery -->
-<script src="http://code.jquery.com/jquery.js"></script>
+<script src="https://code.jquery.com/jquery.js"></script>
 <!-- Bootstrap JavaScript -->
-<script src="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 </body>
 </html>
