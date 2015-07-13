@@ -299,10 +299,10 @@
 	</div>
 	<div class="footer-content text-center">
 		<div class="footer-social">
-			<a href="#" title="#" target="_blank"><i class="fa fa-2x fa-fw fa-facebook-square"></i></a>
-			<a href="#" title="#" target="_blank"><i class="fa fa-2x fa-fw fa-twitter-square"></i></a>
-			<a href="#" title="#" target="_blank"><i class="fa fa-2x fa-fw fa-github-square"></i></a>
-			<a href="#" title="#" target="_blank"><i class="fa fa-2x fa-fw fa-google-plus-square"></i></a>
+			<a href="#" title="facebook" target="_blank"><i class="fa fa-2x fa-fw fa-facebook-square"></i></a>
+			<a href="#" title="twitter" target="_blank"><i class="fa fa-2x fa-fw fa-twitter-square"></i></a>
+			<a href="#" title="github" target="_blank"><i class="fa fa-2x fa-fw fa-github-square"></i></a>
+			<a href="#" title="google-plus" target="_blank"><i class="fa fa-2x fa-fw fa-google-plus-square"></i></a>
 		</div>
 		<div class="copyright">
 			Todos los derechos reservados <em>@kenyk7</em>
